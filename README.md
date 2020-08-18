@@ -1,2 +1,2 @@
 # kana_reading_practise
-Hiragana &amp; Katakana Learning Aid
+A hiragana &amp; katakana learning aid.
