@@ -1,4 +1,4 @@
-# kana_reading_practise
+# Desktop Kana
 `[WORK IN PROGRESS]`
 
 An offline hiragana &amp; katakana learning aid, written in Python 3.8.
