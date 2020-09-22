@@ -17,4 +17,4 @@ However, to use the CLI your machine must support UTF-8 character encoding.  Win
   
   
 **Credits**  
-Typeface data is kindly provided courtesy of [Bryn Dyment](https://hoologic.io/bryn/), owner and co-creator of [Real Kana](https://realkana.com/).
+Typeface data used in the GUI is kindly provided courtesy of [Bryn Dyment](https://hoologic.io/bryn/), owner and co-creator of [Real Kana](https://realkana.com/).
