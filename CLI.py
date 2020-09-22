@@ -24,7 +24,7 @@ while run:
     if new_prompt:
         kana_num = randint(0, len(kana_list) - 1)
     current_kana = kana_list[kana_num]
-    print(current_kana)
+    print('Kana: ' + current_kana)
     search_input = input('Rōmaji: ')
     if search_input == 'exit':
         exit()
