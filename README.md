@@ -11,7 +11,8 @@ However, to use the CLI your machine must support UTF-8 character encoding.  Win
 **GUI**
   
   
-**CLI**
+**CLI**  
+
 ![CLI Screenshot](/resources/screenshots/CLI.png)  
   
   
