@@ -1,7 +1,7 @@
 # Desktop Kana
 `[WORK IN PROGRESS]`
 
-An offline hiragana &amp; katakana learning aid, written in Python 3.8.
+An offline hiragana &amp; katakana learning aid written in Python 3.8, inspired by [Real Kana](https://realkana.com/).
 
 **External Dependencies**  
 This project has no external dependencies.  
