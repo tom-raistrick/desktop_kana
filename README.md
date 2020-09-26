@@ -13,7 +13,7 @@ To use the CLI your machine must support UTF-8 character encoding.  Windows user
   
 **CLI**  
 
-![CLI Startup](/resources/screenshots/CLI_startup_scaled.png)  
+![CLI Startup](/resources/screenshots/CLI_startup.png)  
 
 ![CLI Prompts](/resources/screenshots/CLI_prompts.png)  
   
