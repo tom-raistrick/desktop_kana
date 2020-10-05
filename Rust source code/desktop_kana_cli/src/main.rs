@@ -357,7 +357,7 @@ fn main() {
         }
 
         if prompt_num > 0 {
-            println!("{} of {} answers correct ({}%)",
+            println!("{} of {} answers correct ({:.2}%)",
                      correct_num, prompt_num, (correct_num as f32/prompt_num as f32)*100.0);
         }
         println!("Prompt {}:", prompt_num + 1);
