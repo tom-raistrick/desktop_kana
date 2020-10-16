@@ -11,7 +11,7 @@ To use either the Rust or Python CLIs your machine must support UTF-8 character 
 
 ![Rust CLI Startup](/screenshots/rust_cli_startup.png)  
 
-![Rust CLI Prompts](/screenshots/rust_cli_startup.png)  
+![Rust CLI Prompts](/screenshots/rust_cli_prompts.png)  
   
 **Python CLI (legacy)**  
 
